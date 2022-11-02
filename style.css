@@ -217,7 +217,39 @@
     height: 12px !important;
     border-radius: 50%;
    }
-  
+  #cardwidth{
+    width: 33% !important;
+  }
+  .card{
+    padding: 0.5rem 1rem;
+    border-radius: 1rem !important;
+  }
+  .header{
+    text-align: center;
+    border-bottom: 1px solid blue;
+  }
+  .card-footer1{
+    /* width: 33%; */
+    text-align: center;
+    margin-bottom: -32px;
+    /* margin-left: 6rem;
+    border-top: none;
+    background-color: #2e9791; */
+    color: white;
+    font-weight: bold;
+    /* border-radius: 1rem !important; */
+
+  }
+  .footerCard{
+    position: relative;
+    margin-top: -1rem;
+    text-align: center;
+
+  }
+  .custombtn{
+    border-radius: 11px;
+    background:#2e9791;
+  }
   
   
   
